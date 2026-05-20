@@ -19,8 +19,8 @@ const DrawerLayout = () => {
       <Drawer.Screen
         name="(tabs)"
         options={{
-          drawerLabel: "Tabs + Stack",
-          title: "Tabs + Stack",
+          drawerLabel: "Usuarios",
+          title: "Usuarios",
           drawerIcon: ({ color, size }) => (
             <Ionicons name="layers-outline" size={size} color={color} />
           ),

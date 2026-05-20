@@ -9,9 +9,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#49129C',
-        secondary: '#7638F3',
-        tertiary: '#F29672',
+        primary: '#9A3412',
+        secondary: '#EA580C',
+        tertiary: '#FDBA74',
       },
       fontFamily: {
         'work-black': ['WorkSans-Black', 'sans-serif'],
